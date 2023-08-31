@@ -1,0 +1,11 @@
+#spring:
+#  datasource:
+#    driver-class-name: org.postgresql.Driver
+#    url:
+#    username:
+#    password:
+spring:
+  security:
+    user:
+      name: user
+      password: 1111
